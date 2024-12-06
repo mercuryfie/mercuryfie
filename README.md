@@ -5,14 +5,6 @@ I use React and Next.js to deploy the frontend service.
 I adapt quickly to new environments, and when a problem arises, I’m determined to see it through to resolution. 
 For challenges I can't tackle on my own, I make it a point to share with and collaborate and find solutions together.
 
-## 안녕하세요. 👋프론트엔드 개발자 이도원입니다.
-
-개인 프로젝트로 흥미롭고 새로운 프로덕트를 웹뷰 환경에서 개발하고 있어요.
-React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 편리한 서비스를 제공해줘요.
-
-새로운 환경에서 빠르게 적응하는 장점을 가지고 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.
-그래도 해결하지 못한 과제는 팀원들과 공유하고 함께 이겨내려고 해요.
-
 ### 🎨 <span font-weight="bold" font-size="22px">Portfolio  <img src="https://camo.githubusercontent.com/62299f49897b47a5b02024323c8c05103341c20f1fe77ac208fe17020c3133e1/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d25324668617279616e3234382532466869742d636f756e74657226636f756e745f62673d253233373943383344267469746c655f62673d2532333030303030302669636f6e3d2669636f6e5f636f6c6f723d253233453745374537267469746c653d6869747326656467655f666c61743d66616c7365">
 <ul>
   <li><a href="#">Notion Portfilio(Latest)</a></li>
@@ -76,7 +68,13 @@ React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 
   </li>  
 </ul>
   
- 
+## 안녕하세요. 👋프론트엔드 개발자 이도원입니다.
+
+개인 프로젝트로 흥미롭고 새로운 프로덕트를 웹뷰 환경에서 개발하고 있어요.
+React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 편리한 서비스를 제공해줘요.
+
+새로운 환경에서 빠르게 적응하는 장점을 가지고 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.
+그래도 해결하지 못한 과제는 팀원들과 공유하고 함께 이겨내려고 해요. 
 
 <!--
 
