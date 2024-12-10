@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm working on an exciting and innovative product as a personal project in a WebView environment. 
+I'm working on an exciting and innovative product 
+as a personal project in a WebView environment. <br />
 I use React and Next.js to deploy the frontend service.
 
 I adapt quickly to new environments. <br /> When a problem arises, I’m determined to see it through to resolution. <br />
