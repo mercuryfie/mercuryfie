@@ -13,7 +13,7 @@ For challenges I can't tackle on my own, I make it a point to share with and col
 
 ### 📖 Résumé
 <ul>
-  <li><a href="#">이력서</a></li> 
+  <li><a href="#">Resume</a></li> 
 </ul> 
 
 ### 🛠 Tech Stacks
@@ -66,16 +66,7 @@ For challenges I can't tackle on my own, I make it a point to share with and col
   <img src="https://camo.githubusercontent.com/a4bec6acac0346481d8de167d0cbecba0d9a8e1b0a9f823a084770edced1796d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/0a955b51e047c2ca1c11db41f2038c5bacda1086760b627625b3ac830eb59076/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465">
   </li>  
-</ul>
-
-
-  ## 안녕하세요. 👋프론트엔드 개발자 이도원입니다.
-
-개인 프로젝트로 흥미롭고 새로운 프로덕트를 웹뷰 환경에서 개발하고 있어요.
-React, Next.js를 사용해서 FE 서비스를 배포하고, 네이티브에서 필요한 기능은 jsapi를 통해 사용자에게 편리한 서비스를 제공해줘요.
-
-새로운 환경에서 빠르게 적응하는 장점을 가지고 있고, 한번 머릿속에 떠오른 문제는 끝까지 해결하려고 합니다.
-그래도 해결하지 못한 과제는 팀원들과 공유하고 함께 이겨내려고 해요. 
+</ul> 
  
 
 <!--
