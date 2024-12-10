@@ -13,8 +13,9 @@ For challenges I can't tackle on my own, I make it a point to share with and col
 </ul> 
 
 ### 📖 Résumé
-<ul>
-  <li><a href="#">Resume</a></li> 
+<ul> 
+  <li><a href="#">이력서(국문)</a></li> 
+  <li><a href="#">Resume(Eng)</a></li> 
 </ul> 
 
 ### 🛠 Tech Stacks
