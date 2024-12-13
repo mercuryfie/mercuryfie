@@ -14,7 +14,7 @@ For challenges I can't tackle on my own, I make it a point to share with and col
 
 ### 📖 Résumé
 <ul> 
-  <li><a href="#">이력서(국문)</a></li> 
+  <li><a href="https://www.rallit.com/hub/resumes/1441412">이력서(국문)</a></li> 
   <li><a href="#">Resume(Eng)</a></li> 
 </ul> 
 
