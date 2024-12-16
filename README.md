@@ -107,11 +107,12 @@ For challenges I can't tackle on my own, I make it a point to share with and col
 - 주요 스킬셋: JavaScript, React, CSS, HTML
 
 ## 프로젝트
-- [프로젝트 1](링크)
-- [프로젝트 2](링크)
-
+- [고디바 웹 페이지 제작]<a href="https://mercuryfie.github.io/myportfolio/godiva.html">Click me!</a>
+- [개인/법인 세무 관련 웹 서비스] <a href="https://mercuryfie.github.io/income/">Click me!</a>
+- [시립서울천문대 웹 페이지 제작]<a href="https://mercuryfie.github.io/astro-seoul/sub_news_2.html">Click me!</a>
+  
 ## 연락처
-- 이메일: earththerapie@gmail.com
+- 이메일: mohamin@naver.com
 
 <!--
 **doneandonly/doneandonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
